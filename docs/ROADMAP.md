@@ -3,7 +3,7 @@
 
 > **Who is this for?**
 >
-> A mid-to-senior software engineer who is comfortable with Python, APIs, and systems thinking, and who wants to become an Applied AI Engineer - the person who makes AI systems work reliably in production. You don't need to be in a backend role today (frontend engineers, data scientists, and DevOps professionals all make the jump), but you do need that working foundation - so **start with [Month 0](#month-0--the-on-ramp-before-you-start-month-1) to verify it honestly and close any gaps before Month 1.** No PhD required. No ML research background needed - this is an *applied* roadmap, not a research one.
+> A mid-to-senior software engineer who is comfortable with Python, APIs, and systems thinking, and who wants to become an Applied AI Engineer - the person who makes AI systems work reliably in production. You don't need to be in a backend role today (frontend engineers, data scientists, and DevOps professionals all make the jump), but you do need that working foundation - so **start with [Month 0](#month-0---the-on-ramp-before-you-start-month-1) to verify it honestly and close any gaps before Month 1.** No PhD required. No ML research background needed - this is an *applied* roadmap, not a research one.
 >
 > **What you will build.**
 >
@@ -36,30 +36,30 @@
 - [Phase Overview](#phase-overview-18-work-months-on-a-22-month-calendar)
 - [Month-to-Month Dependency Graph](#month-to-month-dependency-graph)
 - [The Cadence](#the-cadence-and-the-22-month-calendar)
-- [Month 0 - The On-Ramp](#month-0--the-on-ramp-before-you-start-month-1)
+- [Month 0 - The On-Ramp](#month-0---the-on-ramp-before-you-start-month-1)
 - [Phase 1 - Foundations](#phase-1---foundations-months-1-3)
   - [Month 1](#month-1---the-instrumented-ai-client)
-  - [Month 2](#month-2--evaluation-driven-development--the-error-analysis-viewer)
-  - [Month 3](#month-3--your-first-ai-coding-agent--context-engineering)
-- [Phase 2 - Agent Engineering](#phase-2--agent-engineering-months-47)
-  - [Month 4](#month-4--trajectory-evaluation--failure-mode-taxonomy)
-  - [Month 5](#month-5--multi-agent-systems--orchestration)
-  - [Month 6](#month-6--agent-reliability-engineering--human-in-the-loop)
-  - [Month 7](#month-7--mcp--a2a-making-the-platform-agent-agnostic)
-- [Phase 3 - Production & Performance](#phase-3--production--performance-months-811)
-  - [Month 8](#month-8--inference-optimization-local)
-  - [Month 9](#month-9--safety-security--guardrails)
-  - [Month 10](#month-10--cost-aware-model-routing)
-  - [Month 11](#month-11--productionize--the-justified-customization-decision)
-- [Phase 4 - The Evaluation Platform](#phase-4--the-evaluation-platform-months-1214)
-  - [Month 12](#month-12--the-agent-evaluation-platform)
-  - [Month 13](#month-13--observability--telemetry-layer)
-  - [Month 14](#month-14--advanced-reliability--second-system-under-test)
-- [Phase 5 - Leadership & Capstone](#phase-5--leadership--capstone-months-1518)
-  - [Month 15](#month-15--the-paved-road-platform-sdk)
-  - [Month 16](#month-16--technical-leadership-artifacts)
-  - [Month 17](#month-17--portfolio-polish--open-source-contribution)
-  - [Month 18](#month-18--capstone-integrate-narrate-prove)
+  - [Month 2](#month-2---evaluation-driven-development--the-error-analysis-viewer)
+  - [Month 3](#month-3---your-first-ai-coding-agent--context-engineering)
+- [Phase 2 - Agent Engineering](#phase-2---agent-engineering-months-47)
+  - [Month 4](#month-4---trajectory-evaluation--failure-mode-taxonomy)
+  - [Month 5](#month-5---multi-agent-systems--orchestration)
+  - [Month 6](#month-6---agent-reliability-engineering--human-in-the-loop)
+  - [Month 7](#month-7---mcp--a2a-making-the-platform-agent-agnostic)
+- [Phase 3 - Production & Performance](#phase-3---production--performance-months-811)
+  - [Month 8](#month-8---inference-optimization-local)
+  - [Month 9](#month-9---safety-security--guardrails)
+  - [Month 10](#month-10---cost-aware-model-routing)
+  - [Month 11](#month-11---productionize--the-justified-customization-decision)
+- [Phase 4 - The Evaluation Platform](#phase-4---the-evaluation-platform-months-1214)
+  - [Month 12](#month-12---the-agent-evaluation-platform)
+  - [Month 13](#month-13---observability--telemetry-layer)
+  - [Month 14](#month-14---advanced-reliability--second-system-under-test)
+- [Phase 5 - Leadership & Capstone](#phase-5---leadership--capstone-months-1518)
+  - [Month 15](#month-15---the-paved-road-platform-sdk)
+  - [Month 16](#month-16---technical-leadership-artifacts)
+  - [Month 17](#month-17---portfolio-polish--open-source-contribution)
+  - [Month 18](#month-18---capstone-integrate-narrate-prove)
 - [Consolidated Reference](#consolidated-reference)
 
 ---
