@@ -4,10 +4,11 @@
 
 **One project. 18 months. Everything public.**
 
-[![GitHub Discussions](https://img.shields.io/badge/GitHub_Discussions-Join_the_journey-181717?style=flat&logo=github&logoColor=white)](https://github.com/bttrung/banana18/discussions)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat)](./LICENSE)
-[![Contributing](https://img.shields.io/badge/Contributing-Read_the_guide-blue?style=flat)](./CONTRIBUTING.md)
-![Status](https://img.shields.io/badge/Status-Month_0_of_18-orange?style=flat)
+![Status](https://img.shields.io/badge/Status-Month_0_of_18-orange?style=flat&logo=target&logoColor=white)&nbsp;&nbsp;&nbsp;
+[![Community Discussions](https://img.shields.io/badge/Community-Discuss-181717?style=flat&logo=discourse&logoColor=white)](https://github.com/bttrung/banana18/discussions)&nbsp;&nbsp;&nbsp;
+[![Wiki](https://img.shields.io/badge/Wiki-Read_the_docs-blue?style=flat&logo=wikibooks&logoColor=white)](https://github.com/bttrung/banana18/wiki)
+
+<img src="./docs/assets/cover.png" alt="banana18 cover" width="720">
 
 </div>
 
