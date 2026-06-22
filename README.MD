@@ -4,7 +4,7 @@
 
 **One project. 18 months. Everything public.**
 
-[![Discord](https://img.shields.io/badge/Discord-Join_the_journey-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/ETFrkZCtp)
+[![GitHub Discussions](https://img.shields.io/badge/GitHub_Discussions-Join_the_journey-181717?style=flat&logo=github&logoColor=white)](https://github.com/bttrung/banana18/discussions)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](./LICENSE)
 [![Contributing](https://img.shields.io/badge/Contributing-Read_the_guide-blue?style=flat)](./CONTRIBUTING.md)
 ![Status](https://img.shields.io/badge/Status-Month_0_of_18-orange?style=flat)
@@ -192,7 +192,7 @@ banana18/
 ## 📚What Gets Published
 At the start of each month, I will publish a lesson plan for that month. This will explain what I plan to study, build, and measure.
 
-During the month, I will share my progress openly: what I built, what I learned, what resources I found, what results I got, and what I am thinking through. I will also ask for help when I get stuck and share updates in the Discord channel with everyone following along.
+During the month, I will share my progress openly: what I built, what I learned, what resources I found, what results I got, and what I am thinking through. I will also ask for help when I get stuck and share updates in GitHub Discussions with everyone following along.
 
 Each month, I will also write about:
 
@@ -267,7 +267,7 @@ I just like drinking banana wine 😎
 
 <div align="center">
 
-### 💬 Following along or building something similar? [Join the Discord](https://discord.gg/ETFrkZCtp)
+### 💬 Following along or building something similar? [Join the GitHub Discussions](https://github.com/bttrung/banana18/discussions)
 
 *Starting July 2026 · MIT License · Built in public*
 

@@ -117,4 +117,4 @@ For agent, shell, MCP, tool-use, or prompt-injection related changes, describe t
 
 ## Community
 
-For discussion, roadmap feedback, or following the public build, join the Discord linked in the README.
+For discussion, roadmap feedback, or following the public build, join the GitHub Discussions linked in the README.
