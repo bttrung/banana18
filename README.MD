@@ -4,7 +4,7 @@
 
 **One project. 18 months. Everything public.**
 
-![Status](https://img.shields.io/badge/Status-Month_0_of_18-orange?style=flat&logo=target&logoColor=white)&nbsp;&nbsp;&nbsp;
+![Status](https://img.shields.io/badge/Status-Month_1_of_18-orange?style=flat&logo=target&logoColor=white)&nbsp;&nbsp;&nbsp;
 [![Community Discussions](https://img.shields.io/badge/Community-Discuss-181717?style=flat&logo=discourse&logoColor=white)](https://github.com/bttrung/banana18/discussions)&nbsp;&nbsp;&nbsp;
 [![Wiki](https://img.shields.io/badge/Wiki-Read_the_docs-blue?style=flat&logo=wikibooks&logoColor=white)](https://github.com/bttrung/banana18/wiki)
 
@@ -82,30 +82,30 @@ The project has 5 phases. Each one builds directly on the last - nothing gets th
 
 ## 🗓️ The Month-by-Month Plan
 
-| Month | Focus                                    | Key Deliverable                                                                                                                          | Status                 |
-|-------|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
-| 1     | 🔌 AI Client      | Multi-backend instrumented AI client                       | ⏳ Upcoming 01-Jul-2026 |
-| 2     | 🧪 Evaluation     | Eval harness + error-analysis data viewer                        | ⏳ Upcoming 01-Aug-2026 |
-| 3     | 🤖 First Agent    | Supervised coding agent + context retrieval    | ⏳ Upcoming 01-Sep-2026 |
-| -     | ⏸️ Rest                                  | Buffer after Phase 1                                                                                                                     | ⏳ Upcoming 01-Oct-2026 |
-| 4     | 🛤️ Trajectory Eval | Path scoring + failure-mode taxonomy | ⏳ Upcoming 01-Nov-2026 |
-| 5     | 🕸️ Multi-Agent    | Planner / Coder / Reviewer pipeline                       | ⏳ Upcoming 01-Dec-2026 |
-| 6     | 🛡️ Reliability   | Crash recovery, idempotency, human-in-the-loop                             | ⏳ Upcoming 01-Jan-2027 |
-| 7     | 🔗 MCP / A2A  | MCP server + agent-agnostic evaluation                                           | ⏳ Upcoming 01-Feb-2027 |
-| -     | ⏸️ Rest                                  | Buffer after Phase 2                                                                                                                     | ⏳ Upcoming 01-Mar-2027 |
-| 8     | ⚡ Optimization     | Speculative decoding, quantization, caching                                            | ⏳ Upcoming 01-Apr-2027 |
-| 9     | 🔒 Security       | Red-team suite + prompt injection defenses    | ⏳ Upcoming 01-May-2027 |
-| 10    | 💸 Cost Routing    | Model routing cascade + cost attribution                 | ⏳ Upcoming 01-Jun-2027 |
-| 11    | 🚀 Production     | CI/CD + SLOs + fine-tune decision                                             | ⏳ Upcoming 01-Jul-2027 |
-| -     | ⏸️ Rest                                  | Buffer after Phase 3                                                                                                                     | ⏳ Upcoming 01-Aug-2027 |
-| 12    | 🏗️ Platform        | Architecture consolidation                                  | ⏳ Upcoming 01-Sep-2027 |
-| 13    | 📡 Observability   | Tracing, dashboards, drift detection                                  | ⏳ Upcoming 01-Oct-2027 |
-| 14    | 🌍 Generalization | Second external agent evaluated end-to-end                          | ⏳ Upcoming 01-Nov-2027 |
-| -     | ⏸️ Rest                                  | Buffer after Phase 4                                                                                                                     | ⏳ Upcoming 01-Dec-2027 |
-| 15    | 🧩 SDK        | Plugin system + developer docs                                 | ⏳ Upcoming 01-Jan-2028 |
-| 16    | ✍️ Leadership       | Design doc + tech radar + recorded talk                 | ⏳ Upcoming 01-Feb-2028 |
-| 17    | 🌐 Portfolio           | Blog posts + open-source contributions                                 | ⏳ Upcoming 01-Mar-2028 |
-| 18    | 🏁 Capstone  | Full integration + narrative + demo<                                    | ⏳ Upcoming 01-Apr-2028 |
+| Month | Focus                                    | Key Deliverable                                                                                                                          | Status              |
+|-------|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
+| 1     | 🔌 AI Client      | Multi-backend instrumented AI client                       | 🔄 In progress Jul-2026 |
+| 2     | 🧪 Evaluation     | Eval harness + error-analysis data viewer                        | ⏳ Upcoming Aug-2026 |
+| 3     | 🤖 First Agent    | Supervised coding agent + context retrieval    | ⏳ Upcoming Sep-2026 |
+| -     | ⏸️ Rest                                  | Buffer after Phase 1                                                                                                                     | ⏳ Upcoming Oct-2026 |
+| 4     | 🛤️ Trajectory Eval | Path scoring + failure-mode taxonomy | ⏳ Upcoming Nov-2026 |
+| 5     | 🕸️ Multi-Agent    | Planner / Coder / Reviewer pipeline                       | ⏳ Upcoming Dec-2026 |
+| 6     | 🛡️ Reliability   | Crash recovery, idempotency, human-in-the-loop                             | ⏳ Upcoming Jan-2027 |
+| 7     | 🔗 MCP / A2A  | MCP server + agent-agnostic evaluation                                           | ⏳ Upcoming Feb-2027 |
+| -     | ⏸️ Rest                                  | Buffer after Phase 2                                                                                                                     | ⏳ Upcoming Mar-2027 |
+| 8     | ⚡ Optimization     | Speculative decoding, quantization, caching                                            | ⏳ Upcoming Apr-2027 |
+| 9     | 🔒 Security       | Red-team suite + prompt injection defenses    | ⏳ Upcoming May-2027 |
+| 10    | 💸 Cost Routing    | Model routing cascade + cost attribution                 | ⏳ Upcoming Jun-2027 |
+| 11    | 🚀 Production     | CI/CD + SLOs + fine-tune decision                                             | ⏳ Upcoming Jul-2027 |
+| -     | ⏸️ Rest                                  | Buffer after Phase 3                                                                                                                     | ⏳ Upcoming Aug-2027 |
+| 12    | 🏗️ Platform        | Architecture consolidation                                  | ⏳ Upcoming Sep-2027 |
+| 13    | 📡 Observability   | Tracing, dashboards, drift detection                                  | ⏳ Upcoming Oct-2027 |
+| 14    | 🌍 Generalization | Second external agent evaluated end-to-end                          | ⏳ Upcoming Nov-2027 |
+| -     | ⏸️ Rest                                  | Buffer after Phase 4                                                                                                                     | ⏳ Upcoming Dec-2027 |
+| 15    | 🧩 SDK        | Plugin system + developer docs                                 | ⏳ Upcoming Jan-2028 |
+| 16    | ✍️ Leadership       | Design doc + tech radar + recorded talk                 | ⏳ Upcoming Feb-2028 |
+| 17    | 🌐 Portfolio           | Blog posts + open-source contributions                                 | ⏳ Upcoming Mar-2028 |
+| 18    | 🏁 Capstone  | Full integration + narrative + demo<                                    | ⏳ Upcoming Apr-2028 |
 
 ---
 
