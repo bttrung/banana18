@@ -4,7 +4,7 @@
 
 **One project. 18 months. Everything public.**
 
-![Status](https://img.shields.io/badge/Status-Month_1_of_18-orange?style=flat&logo=target&logoColor=white)&nbsp;&nbsp;&nbsp;
+![Status](https://img.shields.io/badge/Status-Month_2_of_18-orange?style=flat&logo=target&logoColor=white)&nbsp;&nbsp;&nbsp;
 [![Community Discussions](https://img.shields.io/badge/Community-Discuss-181717?style=flat&logo=discourse&logoColor=white)](https://github.com/bttrung/banana18/discussions)&nbsp;&nbsp;&nbsp;
 [![Wiki](https://img.shields.io/badge/Wiki-Read_the_docs-blue?style=flat&logo=wikibooks&logoColor=white)](https://github.com/bttrung/banana18/wiki)
 
@@ -84,8 +84,8 @@ The project has 5 phases. Each one builds directly on the last - nothing gets th
 
 | Month | Focus                                    | Key Deliverable                                                                                                                          | Status              |
 |-------|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
-| 1     | 🔌 AI Client      | Multi-backend instrumented AI client                       | 🔄 In progress Jul-2026 |
-| 2     | 🧪 Evaluation     | Eval harness + error-analysis data viewer                        | ⏳ Upcoming Aug-2026 |
+| 1     | 🔌 AI Client      | Multi-backend instrumented AI client                       | ✅ Done Jul-2026 |
+| 2     | 🧪 Evaluation     | Eval harness + error-analysis data viewer                        | 🔄 In progress Aug-2026 |
 | 3     | 🤖 First Agent    | Supervised coding agent + context retrieval    | ⏳ Upcoming Sep-2026 |
 | -     | ⏸️ Rest                                  | Buffer after Phase 1                                                                                                                     | ⏳ Upcoming Oct-2026 |
 | 4     | 🛤️ Trajectory Eval | Path scoring + failure-mode taxonomy | ⏳ Upcoming Nov-2026 |
