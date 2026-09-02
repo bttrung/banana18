@@ -30,8 +30,8 @@ Future months stay listed and use **Upcoming** until work starts.
 |------|-------|-------|--------|------|
 | Month 0 | - | On-ramp and prerequisites. | Reference | [Month 0 Roadmap](https://github.com/bttrung/banana18/blob/main/docs/ROADMAP.md#month-0---the-on-ramp-before-you-start-month-1) |
 | Month 1 | 01-Jul-2026 | Instrumented AI client. | ✅ Done | [Month 01 Lesson Plan](https://github.com/bttrung/banana18/blob/main/docs/months/month-01/Month-01-Lesson-Plan-Instrumented-AI-Client.md) |
-| Month 2 | 01-Aug-2026 | Evaluation harness and viewer. | 🔄 In progress | [Month 02 Lesson Plan](https://github.com/bttrung/banana18/blob/main/docs/months/month-02/Month-02-Lesson-Plan-Eval-Driven-Development.md) |
-| Month 3 | 01-Sep-2026 | Coding agent and retrieval. | Upcoming | [Month 3 Roadmap](https://github.com/bttrung/banana18/blob/main/docs/ROADMAP.md#month-3---your-first-ai-coding-agent--context-engineering) |
+| Month 2 | 01-Aug-2026 | Evaluation harness and viewer. | ✅ Done | [Month 02 Lesson Plan](https://github.com/bttrung/banana18/blob/main/docs/months/month-02/Month-02-Lesson-Plan-Eval-Driven-Development.md) |
+| Month 3 | 01-Sep-2026 | Coding agent and retrieval. | 🔄 In progress | [Month 3 Roadmap](https://github.com/bttrung/banana18/blob/main/docs/ROADMAP.md#month-3---your-first-ai-coding-agent--context-engineering) |
 | Month 4 | 01-Nov-2026 | Trajectory evaluation. | Upcoming | [Month 4 Roadmap](https://github.com/bttrung/banana18/blob/main/docs/ROADMAP.md#month-4---trajectory-evaluation--failure-mode-taxonomy) |
 | Month 5 | 01-Dec-2026 | Multi-agent orchestration. | Upcoming | [Month 5 Roadmap](https://github.com/bttrung/banana18/blob/main/docs/ROADMAP.md#month-5---multi-agent-systems--orchestration) |
 | Month 6 | 01-Jan-2027 | Agent reliability. | Upcoming | [Month 6 Roadmap](https://github.com/bttrung/banana18/blob/main/docs/ROADMAP.md#month-6---agent-reliability-engineering--human-in-the-loop) |

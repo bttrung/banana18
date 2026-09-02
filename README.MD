@@ -4,7 +4,7 @@
 
 **One project. 18 months. Everything public.**
 
-![Status](https://img.shields.io/badge/Status-Month_2_of_18-orange?style=flat&logo=target&logoColor=white)&nbsp;&nbsp;&nbsp;
+![Status](https://img.shields.io/badge/Status-Month_3_of_18-orange?style=flat&logo=target&logoColor=white)&nbsp;&nbsp;&nbsp;
 [![Community Discussions](https://img.shields.io/badge/Community-Discuss-181717?style=flat&logo=discourse&logoColor=white)](https://github.com/bttrung/banana18/discussions)&nbsp;&nbsp;&nbsp;
 [![Wiki](https://img.shields.io/badge/Wiki-Read_the_docs-blue?style=flat&logo=wikibooks&logoColor=white)](https://github.com/bttrung/banana18/wiki)
 
@@ -85,8 +85,8 @@ The project has 5 phases. Each one builds directly on the last - nothing gets th
 | Month | Focus                                    | Key Deliverable                                                                                                                          | Status              |
 |-------|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
 | 1     | 🔌 AI Client      | Multi-backend instrumented AI client                       | ✅ Done Jul-2026 |
-| 2     | 🧪 Evaluation     | Eval harness + error-analysis data viewer                        | 🔄 In progress Aug-2026 |
-| 3     | 🤖 First Agent    | Supervised coding agent + context retrieval    | ⏳ Upcoming Sep-2026 |
+| 2     | 🧪 Evaluation     | Eval harness + error-analysis data viewer                        | ✅ Done Aug-2026 |
+| 3     | 🤖 First Agent    | Supervised coding agent + context retrieval    | 🔄 In progress Sep-2026 |
 | -     | ⏸️ Rest                                  | Buffer after Phase 1                                                                                                                     | ⏳ Upcoming Oct-2026 |
 | 4     | 🛤️ Trajectory Eval | Path scoring + failure-mode taxonomy | ⏳ Upcoming Nov-2026 |
 | 5     | 🕸️ Multi-Agent    | Planner / Coder / Reviewer pipeline                       | ⏳ Upcoming Dec-2026 |
@@ -227,42 +227,6 @@ The honest gap between plan and reality is usually where the most useful learnin
 
 Parts of this roadmap and documentation were generated or revised with AI assistance. Treat them as a working plan, not a guarantee. If something looks unrealistic, misleading, outdated, or poorly grounded in real engineering practice, please [open an issue](https://github.com/bttrung/banana18/issues) with the specific concern.
 
----
-
-<details>
-<summary>If you're curious... 🍌</summary>
-
-<br>
-
-## 🍌 Why banana?
-
-In 🇻🇳 Vietnam, banana wine is a traditional homemade drink. It looks simple and harmless, but it is much stronger than it seems.
-
-After a few glasses, the room changes. People talk more, laugh more, and become much more confident than they were at the start. I have shared banana wine many times with colleagues after work. Those nights are always memorable because they bring good energy and a lot of fun after stressful working hours.
-
-But there is one important lesson: if you drink too much, you can black out.
-
-When I was naming this project, I wanted a name that showed what building with AI really feels like.
-
-At first, AI feels light and easy. You try one thing, then another, and the results come quickly. Each small success makes you more confident, so you keep going.
-
-But the more you use it, the harder it can be to notice when you are losing control. You may start depending on it too much, skipping the hard questions, or trusting outputs without fully understanding them.
-
-And if you go too far, you can “black out.” Not in the drinking sense, but in the work sense: you lose visibility. You no longer know how decisions were made, why the system behaves a certain way, or where the risks are hiding.
-
-That is why the name fits. Building with AI can be exciting, fun, and full of energy. But it also needs care, reflection, and respect for how powerful it can become.
-
-🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌
-
-But maybe that is just the serious explanation 🤨
-
-The real answer is much simpler:
-
-I just like drinking banana wine 😎
-
-🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌
-
-</details>
 
 ---
 
