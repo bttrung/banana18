@@ -86,8 +86,8 @@ The project has 5 phases. Each one builds directly on the last - nothing gets th
 |-------|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
 | 1     | 🔌 AI Client      | Multi-backend instrumented AI client                       | ✅ Done Jul-2026 |
 | 2     | 🧪 Evaluation     | Eval harness + error-analysis data viewer                        | ✅ Done Aug-2026 |
-| 3     | 🤖 First Agent    | Supervised coding agent + context retrieval    | 🔄 In progress Sep-2026 |
-| -     | ⏸️ Rest                                  | Buffer after Phase 1                                                                                                                     | ⏳ Upcoming Oct-2026 |
+| 3     | 🤖 First Agent    | Supervised coding agent + context retrieval    | ✅ Done Sep-2026 |
+| -     | ⏸️ Rest                                  | Buffer after Phase 1                                                                                                                     | 🔄 In progress Oct-2026 |
 | 4     | 🛤️ Trajectory Eval | Path scoring + failure-mode taxonomy | ⏳ Upcoming Nov-2026 |
 | 5     | 🕸️ Multi-Agent    | Planner / Coder / Reviewer pipeline                       | ⏳ Upcoming Dec-2026 |
 | 6     | 🛡️ Reliability   | Crash recovery, idempotency, human-in-the-loop                             | ⏳ Upcoming Jan-2027 |
